@@ -1,0 +1,37 @@
+[
+  {
+    "id": 9,
+    "name": "Daniel Evans",
+    "handle": "@danielevans",
+    "content": "Incredible match tonight by Roger Federer. The players showed amazing skill and determination.",
+    "image": "./RogerFederer.jpg",
+    "likes": 1250,
+    "dislikes": 35,
+    "replies": 250,
+    "avatar": "./DanielEvans.jpg"
+    },
+    {
+    "id": 10,
+    "name": "Mia Walker",
+    "handle": "@miawalker",
+    "content": "Loved watching the game tonight by Simone Biles. So much talent on display!",
+    "image": "./SimoneBiles.jpg",
+    "likes": 1400,
+    "dislikes": 29,
+    "replies": 290,
+    "avatar": "./MiaWalker.jpg"
+    },
+    {
+    "id": 11,
+    "name": "Ryan Miller",
+    "handle": "@ryanmiller",
+    "content": "The speed and precision in tonight's game by Usain Bolt were incredible. Great job, team!",
+    "image": "./UsainBolt.jpg",
+    "likes": 1500,
+    "dislikes": 35,
+    "replies": 300,
+    "avatar": "./RyanMiller.jpg"
+    }
+    
+  ]
+  
